@@ -47,6 +47,19 @@ The project uses JSON Server to mock the API. To start the mock API:
 - Vue Router is used for client-side routing.
 - The project structure follows a component-based architecture.
 
+## Technical Specifications
+
+This project uses the following technologies and versions:
+
+- Vue.js: 3.2.13
+- Vite: 5.4.6
+- JSON Server: 0.17.3
+- Axios: 1.7.7
+- Vue Router: 4.4.5
+- Bootstrap: 4.6.0
+
+Please ensure you have compatible versions installed when setting up the project.
+
 ## Additional Features
 
 - Responsive design for mobile and desktop views.

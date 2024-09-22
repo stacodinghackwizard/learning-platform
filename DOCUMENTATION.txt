@@ -20,6 +20,28 @@ The project follows a component-based architecture:
 - `views/`:
   - `UserDashboard.vue`: The user's dashboard page showing enrolled courses and progress.
 
+## Technical Specifications
+
+The project is built using the following key technologies and versions:
+
+- Vue.js: 3.2.13
+- Vite: 5.4.6
+- JSON Server: 0.17.3
+- Axios: 1.7.7
+- Vue Router: 4.4.5
+- Bootstrap: 4.6.0
+
+These specific versions were used during development and testing. It's recommended to use these versions or compatible ones to ensure the project runs as intended.
+
+### Version Justifications:
+
+1. **Vue.js 3.2.13**: Chosen for its improved performance and Composition API support.
+2. **Vite 5.4.6**: Used as the build tool for its fast development server and optimized production builds.
+3. **JSON Server 0.17.3**: Implemented for creating a full fake REST API with zero coding.
+4. **Axios 1.7.7**: Selected for making HTTP requests due to its ease of use and wide browser support.
+5. **Vue Router 4.4.5**: Used for client-side routing in Vue 3 applications.
+6. **Bootstrap 4.6.0**: Chosen for its comprehensive set of responsive design components and utilities.
+
 ## Mock API Implementation
 
 The mock API is implemented using JSON Server. The `db.json` file in the project root serves as the database. The API endpoints include:
