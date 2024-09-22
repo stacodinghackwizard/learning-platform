@@ -1,0 +1,136 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "breadcrump": "Top Courses",
+      "breadcrump_category": "UI/UX designing",
+      "title": "The complete advanced 6-week UI/UX design bootcamp",
+      "instructor": "Dr. Marley Bator",
+      "rating": "4.9",
+      "ratingCount": "264,250",
+      "studentCount": "1,936,922",
+      "course_content": "Course content",
+      "description": "Our 6-week UI/UX bootcamp equips students with the essential skills to become successful designers. Our experienced instructors provide hands-on learning opportunities to design and prototype digital products, conduct user research, and create user flows and wireframes.",
+      "price": "549.00",
+      "originalPrice": "3499.00",
+      "discount": 85,
+      "sections": 41,
+      "lectures": 490,
+      "totalLength": "65h 33m",
+      "content": [
+        {
+          "week": 1,
+          "title": "Beginner - Introduction to UX designing",
+          "lectures": [
+            {"title": "Read before you start", "duration": "02:53", "completed": true, "type": "file"},
+            {"title": "Introduction to Figma essentials training course", "duration": "02:45", "completed": true, "type": "video"},
+            {"title": "What is the difference between UI & UX in Figma", "duration": "05:22", "completed": true, "type": "video"},
+            {"title": "What we are making in this Figma course", "duration": "09:18", "completed": true, "type": "video"},
+            {"title": "Class project 02- Create your own brief", "type": "Question", "completed": true, "duration": "1 Question"},
+            {"title": "Class project 02- Create your own brief", "type": "Question", "completed": true, "duration": "1 Question"}
+          ]
+        },
+        {
+            "week": 2,
+            "title": "Beginner - Welcome to the course 1",
+            "lectures": [
+                {"title": "Read before you start", "duration": "02:53", "completed": true, "type": "file"},
+                {"title": "Introduction to Figma essentials training course", "duration": "02:45", "completed": true, "type": "video"},
+                {"title": "What is the difference between UI & UX in Figma", "duration": "05:22", "completed": true, "type": "video"},
+                {"title": "What we are making in this Figma course", "duration": "09:18", "completed": false, "type": "video"},
+                {"title": "Class project 02- Create your own brief", "type": "Question", "completed": false, "duration": "1 Question"},
+                {"title": "Class project 02- Create your own brief", "type": "Question", "completed": false, "duration": "1 Question"}
+            ]
+        },
+        {
+            "week": 3,
+            "title": "Beginner - The basic of user experience design",
+            "lectures": [
+              {"title": "Read before you start", "duration": "02:53", "completed": false, "type": "file"},
+              {"title": "Introduction to Figma essentials training course", "duration": "02:45", "completed": false, "type": "video"},
+              {"title": "What is the difference between UI & UX in Figma", "duration": "05:22", "completed": false, "type": "video"},
+              {"title": "What we are making in this Figma course", "duration": "09:18", "completed": false, "type": "video"},
+              {"title": "Class project 02- Create your own brief", "type": "Question", "completed": false, "duration": "1 Question"},
+              {"title": "Class project 02- Create your own brief", "type": "Question", "completed": false, "duration": "1 Question"}
+            ]
+        },
+        {
+            "week": 4,
+            "title": "Beginner - Getting started with UX design",
+            "lectures": [
+                {"title": "Read before you start", "duration": "02:53", "completed": false, "type": "file"},
+                {"title": "Introduction to Figma essentials training course", "duration": "02:45", "completed": false, "type": "video"},
+                {"title": "What is the difference between UI & UX in Figma", "duration": "05:22", "completed": false, "type": "video"},
+                {"title": "What we are making in this Figma course", "duration": "09:18", "completed": false, "type": "video"},
+                {"title": "Class project 02- Create your own brief", "type": "Question", "completed": false, "duration": "1 Question"},
+                {"title": "Class project 02- Create your own brief", "type": "Question", "completed": false, "duration": "1 Question"}
+            ]
+        },
+        {
+            "week": 5,
+            "title": "Beginner - Job in the field of UX experience design",
+            "lectures": [
+                {"title": "Read before you start", "duration": "02:53", "completed": false, "type": "file"},
+                {"title": "Introduction to Figma essentials training course", "duration": "02:45", "completed": false, "type": "video"},
+                {"title": "What is the difference between UI & UX in Figma", "duration": "05:22", "completed": false, "type": "video"},
+                {"title": "What we are making in this Figma course", "duration": "09:18", "completed": false, "type": "video"},
+                {"title": "Class project 02- Create your own brief", "type": "Question", "completed": false, "duration": "1 Question"},
+                {"title": "Class project 02- Create your own brief", "type": "Question", "completed": false, "duration": "1 Question"}
+            ]
+          },
+          {
+            "week": 6,
+            "title": "Beginner - Getting ahead of junior designers",
+            "lectures": [
+                {"title": "Read before you start", "duration": "02:53", "completed": false, "type": "file"},
+                {"title": "Introduction to Figma essentials training course", "duration": "02:45", "completed": false, "type": "video"},
+                {"title": "What is the difference between UI & UX in Figma", "duration": "05:22", "completed": false, "type": "video"},
+                {"title": "What we are making in this Figma course", "duration": "09:18", "completed": false, "type": "video"},
+                {"title": "Class project 02- Create your own brief", "type": "Question", "completed": false, "duration": "1 Question"},
+                {"title": "Class project 02- Create your own brief", "type": "Question", "completed": false, "duration": "1 Question"}
+            ]
+          }
+      ],
+      "include_title": "This course includes",
+      "includes": [
+
+        "65 hours on-demand video",
+        "49 downloadable resources",
+        "Access on mobile and TV",
+        "86 articles",
+        "3 coding exercises",
+        "Certificate of completion"
+      ]
+    }
+    
+    
+    
+  ],
+
+    "users": [
+        {
+            "id": 1,
+            "name": "William Smith",
+            "email": "william@gmail.com",
+            "avatar": "https://cdn.dribbble.com/users/2285351/avatars/normal/1e1be2cfc99b73311ac6b116b4985100.png?1724832091",
+            "enrolledCourses": [1, 3],
+            "dashboard": {
+                "totalCourses": 6,
+                "completedCourses": 2,
+                "hoursSpent": 120
+            }
+        },
+        {
+        "id": 2,
+        "name": "Jane Smith",
+        "email": "jane@example.com",
+       "enrolledCourses": [2, 4],
+        "dashboard": {
+            "totalCourses": 3,
+            "completedCourses": 1,
+            "hoursSpent": 75
+        }
+        }
+    ]
+    
+}
