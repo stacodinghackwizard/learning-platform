@@ -34,7 +34,7 @@ The project uses JSON Server to mock the API. To start the mock API:
 1. Ensure you're in the project root directory.
 2. Run the following command:
    ```bash
-   npx json-server --watch db.json
+   npx json-server --watch db.json --port 3000
    ```
 3. The API will be available at `http://localhost:3000`.
 
