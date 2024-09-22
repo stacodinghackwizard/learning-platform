@@ -98,6 +98,11 @@
     font-weight: 700;
     
   }
+  .nav-link.router-link-active .fas{
+    color: #5647D7;
+    font-weight: 700;
+    
+  }
       .bd-placeholder-img {
         font-size: 1.125rem;
         text-anchor: middle;
